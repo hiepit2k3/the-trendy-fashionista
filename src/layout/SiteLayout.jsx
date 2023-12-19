@@ -1,5 +1,5 @@
 import Footer from "../components/footer/Footer";
-import Navbar from "../components/navbar/Navbar";
+import Navbar from "../components/Navbar/Navbar";
 import PropTypes from "prop-types";
 
 const SiteLayout = ({ children }) => {
